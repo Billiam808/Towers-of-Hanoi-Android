@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Towers of Hanoi</string>
+    <string name="text1">RULES</string>
+
+       <string name="text2">At the start, all the disks will be on the left tower.
+           Your goal is to move them all to one of the other towers by pushing the buttons
+           beneath each tower. However, you must follow three rules.
+    </string>
+
+    <string name="text3">The rules are simple: you can only move one disk at a time,
+        you can only move the top disk on a tower, and you cannot put a disk on top
+        of a smaller disk. When you choose to move a disk, it will be placed in a
+        temporary slot at the top of the screen until you decide where to place it.
+    </string>
+
+    <string name="text4">Increasing the number of disks will increase the challenge
+        exponentially, so choose the size of your game carefully!
+    </string>
+
+    <string name="play">Play</string>
+    <string name="menu">menu</string>
+    <string name="new_window">menu button clicked</string>
+    <string name="play_button_clicked">play button clicked</string>
+    <string name="menu_play_string">Menu</string>
+    <string name="help">Rules</string>
+    <string name="pop_string" />
+    <string name="title">Towers of Hanoi</string>
+    <string name="playAct_numberMssg">number is:</string>
+</resources>
